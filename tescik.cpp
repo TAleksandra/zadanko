@@ -2,10 +2,7 @@
 
 int main(){
 
-<<<<<<< HEAD
+//patch nr 1 dla galezi
 int zmienna = 0;
 
-=======
-//patch nr 1 dla galezi
->>>>>>> 6e5b970... v3
 }
